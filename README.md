@@ -17,7 +17,7 @@ Laboratorios prácticos enfocados en:
 - Simulación de entornos corporativos
 - Documentación técnica clara y estructurada
 
-Los laboratorios se irán ampliando progresivamente.
+(Los laboratorios se irán ampliando progresivamente.)
 
 
 **Tecnologías y áreas trabajadas**
