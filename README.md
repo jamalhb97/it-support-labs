@@ -1,37 +1,90 @@
-# IT Support Labs 🖥️🔧
+# IT Support Labs
 
-Repositorio de laboratorios prácticos de soporte IT enfocados a entornos reales de empresa.  
-El objetivo es simular incidencias comunes, diagnosticarlas, resolverlas y documentarlas de forma profesional.
+Repositorio de laboratorios prácticos orientados a soporte IT y sistemas, basado en incidencias reales de entornos empresariales.
 
-Este repositorio sirve como experiencia práctica complementaria a mis estudios en Sistemas Microinformáticos y Redes (SMR).
+El objetivo del proyecto es practicar diagnóstico, resolución y documentación de problemas habituales en puestos de helpdesk / IT junior, utilizando entornos virtualizados.
+
+Proyecto personal como complemento a mis estudios en Sistemas Microinformáticos y Redes (SMR).
+
+---
+
+## Qué encontrarás en este repositorio
+
+Laboratorios prácticos enfocados en:
+
+- Resolución de incidencias en Windows y Linux
+- Diagnóstico de problemas de red
+- Gestión básica de sistemas
+- Simulación de entornos corporativos
+- Documentación técnica clara y estructurada
+
+Los laboratorios se irán ampliando progresivamente.
+
+---
+
+## Tecnologías y áreas trabajadas
+
+### Sistemas Operativos
+- Windows 10 / 11 Pro
+- Windows Server
+- Linux (Ubuntu)
+
+### Virtualización
+- VMware Workstation
+- Conceptos de virtualización empresarial
+
+### Redes
+- Configuración IP (IPv4)
+- Diagnóstico de conectividad
+- DHCP
+- DNS
+- Resolución de conflictos de red
+
+### Active Directory (Windows Server)
+- Dominio
+- Usuarios y grupos
+- Unidades organizativas (OU)
+- Políticas básicas (GPO)
+- Incidencias comunes de dominio
+
+### Soporte IT / Helpdesk
+- Incidencias de usuario
+- Problemas de permisos
+- PC lento / servicios
+- Errores de inicio de sesión
+- Diagnóstico con herramientas del sistema
+
+### Herramientas
+- CMD / PowerShell (básico)
+- Herramientas administrativas de Windows
+- Git y GitHub
+- Documentación en Markdown
+
+---
+
+## Estructura del repositorio
+windows/
+├── incidencias/
+│ ├── incidencia-sin-internet.md
+│ ├── incidencia-pc-lento.md
+│ └── img/
+│
+linux/
+├── incidencias/
+│
+active-directory/
+├── laboratorio-dominio.md
+│
+README.md
 
 
 
+*(La estructura podrá ampliarse según se añadan nuevos laboratorios)*
 
-# Objetivos del repositorio
+---
 
-- Practicar tareas reales de soporte técnico IT
-- Mejorar el diagnóstico y resolución de incidencias
-- Documentar correctamente problemas y soluciones
-- Crear un portfolio técnico visible y entendible
+## Estado del proyecto
 
+En desarrollo continuo.  
+Repositorio pensado para crecer con nuevos escenarios y laboratorios prácticos.
 
-
-
-# Tecnologías y herramientas utilizadas
-
-**Sistemas Operativos**
-  - Windows 10 Pro
-  - Linux (Ubuntu) 
-
-**Virtualización**
-  - VMware Workstation
-
-**Redes**
-  - Configuración IP
-  - Diagnóstico con CMD
-  - DHCP / DNS
-
-**Otros**
-  - Git & GitHub
-  - Documentación en Markdown
