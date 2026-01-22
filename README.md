@@ -6,7 +6,6 @@ El objetivo del proyecto es practicar diagnóstico, resolución y documentación
 
 Proyecto personal como complemento a mis estudios en Sistemas Microinformáticos y Redes (SMR).
 
----
 
 ## Qué encontrarás en este repositorio
 
@@ -20,7 +19,6 @@ Laboratorios prácticos enfocados en:
 
 Los laboratorios se irán ampliando progresivamente.
 
----
 
 ## Tecnologías y áreas trabajadas
 
@@ -60,7 +58,6 @@ Los laboratorios se irán ampliando progresivamente.
 - Git y GitHub
 - Documentación en Markdown
 
----
 
 ## Estructura del repositorio
 windows/
@@ -81,7 +78,6 @@ README.md
 
 *(La estructura podrá ampliarse según se añadan nuevos laboratorios)*
 
----
 
 ## Estado del proyecto
 
