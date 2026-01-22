@@ -32,7 +32,7 @@ Laboratorios prácticos enfocados en:
 - VirtualBox
 
 **Redes**
-- Configuración IP (IPv4)
+- TCP/IP (IPv4)
 - Diagnóstico de conectividad
 - DHCP
 - DNS
