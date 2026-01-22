@@ -6,7 +6,8 @@ El objetivo del proyecto es practicar diagnóstico, resolución y documentación
 
 Proyecto personal como complemento a mis estudios en Sistemas Microinformáticos y Redes (SMR).
 
- **Qué encontrarás en este repositorio**
+
+**Qué encontrarás en este repositorio**
 
 Laboratorios prácticos enfocados en:
 
@@ -18,45 +19,46 @@ Laboratorios prácticos enfocados en:
 
 Los laboratorios se irán ampliando progresivamente.
 
- **Tecnologías y áreas trabajadas**
+
+**Tecnologías y áreas trabajadas**
 
  **Sistemas Operativos**
 - Windows 10 / 11 Pro
 - Windows Server
 - Linux (Ubuntu)
 
- **Virtualización**
+**Virtualización**
 - VMware Workstation
 - Conceptos de virtualización empresarial
 
- **Redes**
+**Redes**
 - Configuración IP (IPv4)
 - Diagnóstico de conectividad
 - DHCP
 - DNS
 - Resolución de conflictos de red
 
- **Active Directory (Windows Server)**
+**Active Directory (Windows Server)**
 - Dominio
 - Usuarios y grupos
 - Unidades organizativas (OU)
 - Políticas básicas (GPO)
 - Incidencias comunes de dominio
 
- **Soporte IT / Helpdesk**
+**Soporte IT / Helpdesk**
 - Incidencias de usuario
 - Problemas de permisos
 - PC lento / servicios
 - Errores de inicio de sesión
 - Diagnóstico con herramientas del sistema
 
- **Herramientas**
+**Herramientas**
 - CMD / PowerShell (básico)
 - Herramientas administrativas de Windows
 - Git y GitHub
 - Documentación en Markdown
 
- **Estado del proyecto**
+**Estado del proyecto**
 
 En desarrollo continuo.  
 Repositorio pensado para crecer con nuevos escenarios y laboratorios prácticos.
