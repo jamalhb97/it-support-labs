@@ -29,7 +29,7 @@ Laboratorios prácticos enfocados en:
 
 **Virtualización**
 - VMware Workstation
-- Conceptos de virtualización empresarial
+- VirtualBox
 
 **Redes**
 - Configuración IP (IPv4)
