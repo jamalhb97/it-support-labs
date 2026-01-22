@@ -5,7 +5,8 @@ El objetivo es simular incidencias comunes, diagnosticarlas, resolverlas y docum
 
 Este repositorio sirve como **experiencia práctica** complementaria a mis estudios en **Sistemas Microinformáticos y Redes (SMR)**.
 
----
+
+
 
 ## Objetivos del repositorio
 
@@ -14,7 +15,8 @@ Este repositorio sirve como **experiencia práctica** complementaria a mis estud
 - Documentar correctamente problemas y soluciones
 - Crear un portfolio técnico visible y entendible
 
----
+
+
 
 ## Tecnologías y herramientas utilizadas
 
