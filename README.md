@@ -1,4 +1,4 @@
-IT Support Labs 🖥️🔧
+# IT Support Labs 🖥️🔧
 
 Repositorio de laboratorios prácticos de soporte IT enfocados a entornos reales de empresa.  
 El objetivo es simular incidencias comunes, diagnosticarlas, resolverlas y documentarlas de forma profesional.
@@ -8,7 +8,7 @@ Este repositorio sirve como experiencia práctica complementaria a mis estudios 
 
 
 
-Objetivos del repositorio
+# Objetivos del repositorio
 
 - Practicar tareas reales de soporte técnico IT
 - Mejorar el diagnóstico y resolución de incidencias
@@ -18,7 +18,7 @@ Objetivos del repositorio
 
 
 
-Tecnologías y herramientas utilizadas
+# Tecnologías y herramientas utilizadas
 
 **Sistemas Operativos**
   - Windows 10 Pro
