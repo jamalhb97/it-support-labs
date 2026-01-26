@@ -19,8 +19,10 @@ theme:
     - search.highlight
 
 nav:
+  
+  
   - Inicio: index.md
-
+  - Sobre mí: about.md
   - Windows:
       - Introducción: windows/index.md
       - Incidencias:
