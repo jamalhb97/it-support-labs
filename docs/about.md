@@ -2,7 +2,7 @@
 
 Hola! soy **Jamal**,
 
-Este sitio web forma parte de mi proceso de aprendizaje y desarrollo como **Técnico de Soporte Técnico IT**, donde documento **laboratorios reales** de sistemas, redes y resolución de incidencias simulando situaciones que pueden darse en un entorno de trabajo.
+Este sitio web forma parte de mi proceso de aprendizaje y desarrollo como **Técnico de Soporte IT**, donde documento **laboratorios reales** de sistemas, redes y resolución de incidencias simulando situaciones que pueden darse en un entorno de trabajo.
 
 ## Objetivo del proyecto
 
