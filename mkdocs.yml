@@ -1,0 +1,48 @@
+site_name: IT Support Labs
+site_description: Laboratorios prácticos de soporte IT y sistemas
+site_author: Jamal
+
+theme:
+  name: material
+  language: es
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.indexes
+    - toc.integrate
+    - search.suggest
+    - search.highlight
+
+nav:
+  - Inicio: index.md
+
+  - Windows:
+      - Introducción: windows/index.md
+      - Incidencias:
+          - Listado: windows/incidencias/index.md
+          - Sin conexión a Internet: windows/incidencias/lab-01-sin-conexion-a-internet/index.md
+      - Active Directory:
+          - Introducción: windows/active-directory/index.md
+      - Comandos:
+          - Introducción: windows/comandos/index.md
+
+
+  - Linux:
+      - Introducción: linux/index.md
+      - Incidencias:
+          - Ejemplo: linux/incidencias/index.md
+      - Seguridad:
+          - Introducción: linux/seguridad/index.md
+
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.extra
+
+plugins:
+  - search
+  - glightbox
