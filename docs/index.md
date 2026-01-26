@@ -1,19 +1,38 @@
 # IT Support Labs
 
-Documentación práctica de laboratorios orientados a **soporte IT**, **helpdesk** y **administración de sistemas**, basada en incidencias reales de entornos empresariales.
+Laboratorios prácticos de **Soporte Técnico IT** basados en **escenarios reales de empresa**.
 
-## Qué encontrarás aquí
+Este sitio recopila incidencias técnicas, configuraciones y pruebas realizadas en entornos simulados, con el objetivo de desarrollar habilidades reales en **resolución de problemas**, **documentación técnica** y **administración de sistemas**.
 
-- Resolución de incidencias reales en Windows y Linux  
-- Diagnóstico de problemas de red  
-- Active Directory y entorno corporativo  
-- Uso de comandos y herramientas de soporte  
-- Documentación técnica clara y profesional
+---
 
-## Estructura
+## ¿Qué encontrarás aquí?
 
-Utiliza el menú lateral para navegar por:
-- Windows
-- Linux
-- Incidencias
-- Active Directory
+- Resolución de incidencias en **Windows y Linux**
+- Pruebas en entornos virtualizados
+- Diagnóstico paso a paso (troubleshooting)
+- Documentación clara y estructurada
+- Escenarios habituales en entornos IT reales
+
+---
+
+## Enfoque del proyecto
+
+Este proyecto está orientado a roles como:
+
+- Técnico de Soporte IT
+- Helpdesk
+- Soporte Técnico N1 / N2
+- Junior Systems Administrator
+
+
+Cada laboratorio está documentado como si fuera una incidencia real, explicando:
+
+- El problema
+- El análisis
+- La solución
+- Las conclusiones
+
+---
+
+Puedes empezar explorando los laboratorios desde el menú superior.

@@ -1,7 +1,8 @@
 # Sobre mí
 
-Hola, soy **Jamal**  
-Este sitio web forma parte de mi proceso de aprendizaje y desarrollo como profesional de **Soporte Técnico IT**.
+Hola! soy **Jamal**,
+
+Este sitio web forma parte de mi proceso de aprendizaje y desarrollo como profesional de **Soporte Técnico IT**, donde documento **laboratorios reales** de sistemas, redes y resolución de incidencias simulando situaciones que pueden darse en un entorno de trabajo.
 
 ## Objetivo del proyecto
 
@@ -9,9 +10,10 @@ El objetivo de esta web es documentar **laboratorios prácticos reales** relacio
 
 - Windows
 - Linux
-- Redes
+- Redes 
 - Active Directory
 - Resolución de incidencias
+
 
 Todos los laboratorios están pensados como situaciones reales que pueden ocurrir en un entorno de trabajo IT.
 
@@ -29,11 +31,11 @@ Todos los laboratorios están pensados como situaciones reales que pueden ocurri
 
 Actualmente sigo ampliando conocimientos en:
 
-- Administración de sistemas
-- Seguridad básica
+- Active Directory avanzado
+- Redes y diagnóstico
 - Automatización
-- Documentación técnica profesional
+- Buenas prácticas en entornos profesionales IT
 
 ---
 
-Este sitio se irá actualizando a medida que complete nuevos laboratorios.
+Este proyecto irá creciendo progresivamente con nuevos laboratorios y escenarios reales.
