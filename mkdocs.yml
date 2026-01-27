@@ -28,6 +28,7 @@ nav:
       - Incidencias:
           - Listado: windows/incidencias/index.md
           - Sin conexión a Internet: windows/incidencias/lab-01-sin-conexion-a-internet/index.md
+          - Usuario no inicia sesión en dominio: windows/incidencias/lab-02-usuario-no-inicia-sesion-dominio/
       - Active Directory:
           - Introducción: windows/active-directory/index.md
       - Comandos:

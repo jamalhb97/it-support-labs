@@ -11,7 +11,7 @@ Este sitio recopila incidencias técnicas, configuraciones y pruebas realizadas 
 - Resolución de incidencias en **Windows y Linux**
 - Pruebas en entornos virtualizados
 - Diagnóstico paso a paso (troubleshooting)
-- Documentación clara y estructurada
+- Documentación clara y estructurada    
 - Escenarios habituales en entornos IT reales
 
 ---
