@@ -5,12 +5,12 @@ Un usuario del dominio no puede iniciar sesión en un equipo cliente unido al do
 
 ## Entorno
 - Hypervisor: VMware Workstation
-- Servidor:
+Servidor:
   - Windows Server 2022
   - Rol AD DS y DNS
   - Nombre: SRV-DC01
   - IP: 192.168.56.10
-- Cliente:
+Cliente:
   - Windows 10
   - Nombre: PC-01
   - IP: 192.168.56.20
@@ -28,13 +28,16 @@ Un usuario del dominio no puede iniciar sesión en un equipo cliente unido al do
 
 
 ## Diagnóstico
+
 Se realizaron las siguientes comprobaciones:
-- Conectividad de red entre cliente y servidor.
-- Configuración IP del cliente.
-- Servidor DNS configurado correctamente.
-- Estado del servicio DNS.
-- Existencia del usuario en Active Directory.
-- Resolución de registros SRV del dominio.
+
+- Conectividad de red entre cliente y servidor
+- Configuración IP del cliente
+- Servidor DNS configurado correctamente
+- Estado del servicio DNS
+- Existencia del usuario en Active Directory
+- Resolución de registros SRV del dominio
+
 
 ![Zona DNS labs.local en el servidor](img/03-dns-zona-labs-local.png)
 
@@ -42,10 +45,14 @@ Se realizaron las siguientes comprobaciones:
 
 
 ## Resolución
+
 Se corrigieron los siguientes puntos:
-- Configuración del servidor DNS en el cliente.
-- Credenciales correctas del administrador del dominio.
-- Unión correcta del equipo cliente al dominio `labs.local`.
+
+- Configuración del servidor DNS en el cliente
+- Uso de credenciales correctas del administrador del dominio
+- Unión correcta del equipo cliente al dominio `labs.local`
+- Inicio de sesión exitoso con un usuario del dominio
+
 
 ![Dominio labs.local creado y operativo](img/05-dominio-creado.png)
 
