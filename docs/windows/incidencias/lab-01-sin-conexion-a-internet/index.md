@@ -7,12 +7,14 @@ El problema se presenta de forma continua y le impide navegar o acceder a servic
 
 La incidencia afecta al normal funcionamiento del puesto de trabajo, por lo que se procede a su revisión para identificar la causa del problema.
 
-## 2. Entorno y diagnóstico inicial
+## 2. Entorno 
 
 El equipo afectado es un ordenador con sistema operativo Windows, utilizado como puesto de trabajo en un entorno corporativo.  
 El usuario indica que no tiene conexión a Internet, tanto por cable como por Wi-Fi, y que el problema persiste tras reiniciar el equipo.
 
 Antes de realizar cambios en la configuración, se procede a un diagnóstico inicial para identificar si el origen del problema es físico, de red o de configuración del sistema.
+
+## 3. Diagnóstico
 
 ### Comprobaciones iniciales realizadas
 
@@ -37,7 +39,7 @@ Se comprueba la configuración de red desde línea de comandos para verificar si
 
 Al realizar pruebas de conectividad hacia una IP externa, no se obtiene respuesta.
 
-## 3. Identificación de la causa
+## 4. Identificación de la causa
 
 Se revisa la configuración del adaptador de red y se detecta que la dirección IPv4 está configurada de forma manual, sin puerta de enlace ni servidores DNS definidos, lo que impide la salida a Internet.
 
@@ -49,7 +51,7 @@ Se revisa la configuración del adaptador de red y se detecta que la dirección 
 
 <hr style="margin: 2.5em 0; border: none;">
 
-## 4. Solución aplicada
+## 5. Solución aplicada
 
 Se modifica la configuración del adaptador de red para obtener la dirección IP y los servidores DNS de forma automática mediante DHCP.
 
@@ -65,12 +67,10 @@ Se modifica la configuración del adaptador de red para obtener la dirección IP
 
 <hr style="margin: 2.5em 0; border: none;">
 
-## 5. Verificación y resultado final
+## 6. Verificación y resultado final
 
 Tras aplicar los cambios, el equipo obtiene conectividad correctamente.  
 Se realizan pruebas de conectividad a direcciones IP externas y a nombres de dominio, confirmando la resolución del problema.
-
-### Verificación y resultado final
 
 [![Verificación de conectividad correcta](img/diagnostico-cmd.png)](img/diagnostico-cmd.png){.glightbox}
 
